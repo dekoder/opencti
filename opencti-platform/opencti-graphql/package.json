@@ -79,7 +79,7 @@
     "ramda": "^0.27.0",
     "rxjs": "^6.5.4",
     "uuid": "^7.0.2",
-    "validator": "^13.0.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^4.4.2"
   },
