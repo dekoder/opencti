@@ -64,7 +64,7 @@
     "migrate": "^1.6.2",
     "mime-types": "^2.1.26",
     "minio": "^7.0.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nconf": "^0.10.0",
     "openid-client": "^3.14.1",
     "passport": "^0.4.1",
